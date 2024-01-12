@@ -1,1 +1,5 @@
-
+The objective is to create a model using existing data to examine the correlation between Agent Bonuses and 
+various independent variables. This involves conducting exploratory data analysis (EDA) through univariate,
+bivariate, and multivariate analysis to uncover relationships. The process includes data cleaning,
+preprocessing, model construction, and validation, leading to final interpretations and recommendations. 
+The aim is to design performance-based programs to incentivize agents effectively.
