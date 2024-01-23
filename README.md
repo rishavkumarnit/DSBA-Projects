@@ -1,2 +1,2 @@
-# DSBA-Projects
-Projects related to Data Science and Business Analytics
+
+Projects related to Computer Science
